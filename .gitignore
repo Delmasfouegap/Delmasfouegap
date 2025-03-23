@@ -1,0 +1,15 @@
+# Ignorer le dossier .vscode (configuration de l'éditeur)
+.vscode/
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers exécutables
+*.exe
+*.out
+
+# Ignorer d'autres fichiers temporaires
+*.log
+*.csv
+
