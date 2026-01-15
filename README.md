@@ -3,7 +3,7 @@
 ---
 
 👨‍💻 About Me
-- 🚀 Aspiring AI Engineer & Data Analyst.
+- 🚀 Aspiring Data Scientist  & Data Analyst.
 - 🧠 Passionate about extracting knowledge from data and designing intelligent solutions.
 - 🔍 Currently learning machine learning, data analytics, and artificial intelligence fundamentals.
 
