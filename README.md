@@ -1,5 +1,5 @@
 # Hi there 👋, i'm Delmas Fouegap
-##  I'm a student in Artificial Intelligence and Data Analytics.
+##  I am a student in artificial intelligence and data science.
 ---
 
 👨‍💻 About Me
